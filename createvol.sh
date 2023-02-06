@@ -10,5 +10,3 @@ aws ec2 create-volume \
 echo "created Volume $i"
 sleep 2
 done
-
-Script to delete volume with 1GB.
